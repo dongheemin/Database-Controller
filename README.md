@@ -1,7 +1,22 @@
 # Database-Controller
 
-C# Form으로 만든 DB 컨트롤러입니다.
+<H1>Environments</H1>
+<ol> Visual Studio 2008 </ol>
+<ol> C# </ol>
+<ol> MSSQL 2012 </ol>
+<ol> Windows 8 </ol>
 
-어렵다고만 생각했던 Windows form을 실제로 연습해보니 그렇게 어렵진 않네요
+<hr>
 
-실질적인 내용은 거의 없다시피하고 기본 툴만 가지고 개발하려니 디자인도 마음에 들지 않습니다. 
+<H1>Module</H1>
+
+<ol> Mainform : Main </ol>
+<ol> ExcelReader / ExcelReader_Data </ol>
+<ol> InsertTableDialog / InsertDataDialog </ol>
+<ol> SearchItemDialog </ol>
+<ol> Excel_Value_Exception </ol>
+
+<H1> Lib </H1>
+
+<ol> Susing ystem.Data.OleDb, SqlClient </ol>
+
