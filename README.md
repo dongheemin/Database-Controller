@@ -11,12 +11,12 @@
 <H1>Module</H1>
 
 <ol> Mainform : Main </ol>
-<ol> ExcelReader / ExcelReader_Data </ol>
-<ol> InsertTableDialog / InsertDataDialog </ol>
-<ol> SearchItemDialog </ol>
-<ol> Excel_Value_Exception </ol>
+<ol> ExcelReader / ExcelReader_Data : For Excel Data Reading And Update Database</ol>
+<ol> InsertTableDialog / InsertDataDialog : For Insert Data on Database</ol>
+<ol> SearchItemDialog : Search Function in GridView</ol>
+<ol> Excel_Value_Exception : Define Exception using custom Exception Class</ol>
 
 <H1> Lib </H1>
 
-<ol> Susing ystem.Data.OleDb, SqlClient </ol>
+<ol> Using ystem.Data.OleDb, SqlClient </ol>
 
